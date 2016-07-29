@@ -480,3 +480,11 @@ body {
   font-size: 4rem;
   margin: 0;
 }
+
+.banner {
+    display: flex;
+    align-items: flex-end;
+}
+.logo {
+    margin-right: auto;
+}
